@@ -41,5 +41,5 @@ Projede aşağıdaki veri yapıları için örnekler bulunmaktadır:
 **Algoritmalar**
 Projede çeşitli arama ve sıralama algoritmaları bulunmaktadır:
 
--Arama Algoritmaları: Doğrusal arama, ikili arama
--Sıralama Algoritmaları: Balon sıralama, hızlı sıralama
+- Arama Algoritmaları: Doğrusal arama, ikili arama
+- Sıralama Algoritmaları: Balon sıralama, hızlı sıralama
