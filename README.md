@@ -29,16 +29,17 @@ Bu proje, **Java** programlama dili kullanılarak çeşitli veri yapılarının 
      java src.Main
 
 ## 📖 Kullanım
-Veri Yapıları
+**Veri Yapıları**
 Projede aşağıdaki veri yapıları için örnekler bulunmaktadır:
 
-Listeler: Bağlantılı liste, dinamik dizi
-Yığınlar: LIFO (Last In, First Out) yapıları
-Kuyruklar: FIFO (First In, First Out) yapıları
-Ağaçlar: İkili ağaçlar, AVL ağaçları
-Grafikler: Yönlendirilmiş ve yönlendirilmemiş grafikler
-Algoritmalar
+- Listeler: Bağlantılı liste, dinamik dizi
+- Yığınlar: LIFO (Last In, First Out) yapıları
+- Kuyruklar: FIFO (First In, First Out) yapıları
+- Ağaçlar: İkili ağaçlar, AVL ağaçları
+- Grafikler: Yönlendirilmiş ve yönlendirilmemiş grafikler
+
+**Algoritmalar**
 Projede çeşitli arama ve sıralama algoritmaları bulunmaktadır:
 
-Arama Algoritmaları: Doğrusal arama, ikili arama
-Sıralama Algoritmaları: Balon sıralama, hızlı sıralama
+-Arama Algoritmaları: Doğrusal arama, ikili arama
+-Sıralama Algoritmaları: Balon sıralama, hızlı sıralama
