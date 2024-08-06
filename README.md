@@ -13,7 +13,6 @@ Bu proje, **Java** programlama dili kullanılarak çeşitli veri yapılarının 
 ### Gereksinimler
 
 - Java 11+ sürümü
-- Maven (veya Gradle) yapılandırması (isteğe bağlı)
 
 ### Adımlar
 
